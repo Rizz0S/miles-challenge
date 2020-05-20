@@ -4,4 +4,4 @@
 
 Hosted @ https://rizz0s.github.io/miles-challenge
 
-Built with Redux and Redux-Redo. 
+Built with Redux and Redux-Redo. Built with Parcel.
