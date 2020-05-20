@@ -1,4 +1,4 @@
-# Miles Front-End Challenge
+# Front-End Challenge
 
 ## built by Summer Rizzo
 
