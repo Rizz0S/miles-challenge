@@ -1,0 +1,25 @@
+{
+  "name": "miles-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "localStorage.js",
+  "dependencies": {
+    "redux": "^4.0.5",
+    "redux-undo": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizz0S/miles-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizz0S/miles-challenge/issues"
+  },
+  "homepage": "https://github.com/Rizz0S/miles-challenge#readme"
+}
